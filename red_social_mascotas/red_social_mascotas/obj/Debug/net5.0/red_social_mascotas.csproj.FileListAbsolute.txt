@@ -1,0 +1,154 @@
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\appsettings.json
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\red_social_mascotas.exe
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\red_social_mascotas.deps.json
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\red_social_mascotas.runtimeconfig.json
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\red_social_mascotas.runtimeconfig.dev.json
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\red_social_mascotas.dll
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\ref\red_social_mascotas.dll
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\red_social_mascotas.pdb
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\red_social_mascotas.Views.dll
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\red_social_mascotas.Views.pdb
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.csprojAssemblyReference.cache
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.AssemblyInfoInputs.cache
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.AssemblyInfo.cs
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.RazorAssemblyInfo.cache
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.RazorAssemblyInfo.cs
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\staticwebassets\red_social_mascotas.StaticWebAssets.Manifest.cache
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\staticwebassets\red_social_mascotas.StaticWebAssets.xml
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\scopedcss\bundle\red_social_mascotas.styles.css
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.TagHelpers.input.cache
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.TagHelpers.output.cache
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.RazorCoreGenerate.cache
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\Auth\Registrar.cshtml.g.cs
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.RazorTargetAssemblyInfo.cache
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.RazorTargetAssemblyInfo.cs
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.Views.pdb
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.csproj.CopyComplete
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.dll
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\ref\red_social_mascotas.dll
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.pdb
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.genruntimeconfig.cache
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\Shared\_Layout1.cshtml.g.cs
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\Home\MisMascotas.cshtml.g.cs
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\Home\PonerEnAdopccion.cshtml.g.cs
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\Home\RegistarMascota.cshtml.g.cs
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\Home\Test.cshtml.g.cs
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\Home\Comentarios.cshtml.g.cs
+C:\Users\USUARIO\RiderProjects\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\Shared\_Layout3.cshtml.g.cs
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\appsettings.Development.json
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\appsettings.json
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\red_social_mascotas.exe
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\red_social_mascotas.deps.json
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\red_social_mascotas.runtimeconfig.json
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\red_social_mascotas.runtimeconfig.dev.json
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\red_social_mascotas.dll
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\ref\red_social_mascotas.dll
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\red_social_mascotas.pdb
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\red_social_mascotas.Views.dll
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\red_social_mascotas.Views.pdb
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.csprojAssemblyReference.cache
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.GeneratedMSBuildEditorConfig.editorconfig
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.AssemblyInfoInputs.cache
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.AssemblyInfo.cs
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.csproj.CoreCompileInputs.cache
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.MvcApplicationPartsAssemblyInfo.cache
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.RazorAssemblyInfo.cache
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.RazorAssemblyInfo.cs
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\staticwebassets\red_social_mascotas.StaticWebAssets.Manifest.cache
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\staticwebassets\red_social_mascotas.StaticWebAssets.xml
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\scopedcss\bundle\red_social_mascotas.styles.css
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.TagHelpers.input.cache
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.TagHelpers.output.cache
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.RazorCoreGenerate.cache
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\Auth\Login.cshtml.g.cs
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\Auth\Registrar.cshtml.g.cs
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\Home\Comentarios.cshtml.g.cs
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\Home\MisMascotas.cshtml.g.cs
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\Home\PonerEnAdopccion.cshtml.g.cs
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\Home\RegistarMascota.cshtml.g.cs
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\Home\Test.cshtml.g.cs
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\Shared\_Layout1.cshtml.g.cs
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\Shared\_Layout3.cshtml.g.cs
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.RazorTargetAssemblyInfo.cache
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.RazorTargetAssemblyInfo.cs
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.Views.pdb
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.csproj.CopyComplete
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.dll
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\ref\red_social_mascotas.dll
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.pdb
+D:\2021-2\ArquiSoftware\Proy Final -Examen Final\red_social_mascotas\red_social_mascotas\red_social_mascotas\obj\Debug\net5.0\red_social_mascotas.genruntimeconfig.cache

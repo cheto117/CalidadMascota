@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "red_social_mascotas", "red_social_mascotas\red_social_mascotas.csproj", "{3DB1B4E6-4033-4D85-9F61-CF76017339FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DB1B4E6-4033-4D85-9F61-CF76017339FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB1B4E6-4033-4D85-9F61-CF76017339FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB1B4E6-4033-4D85-9F61-CF76017339FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB1B4E6-4033-4D85-9F61-CF76017339FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

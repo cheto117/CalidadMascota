@@ -1,0 +1,65 @@
+﻿
+<form >
+    <input type="text" placeholder="Buscar por nombre" name="busqueda" autocomplete="off"/>
+
+</form>
+<div class="container my-4">
+    <!--Carousel Wrapper-->
+    <div id="multi-item-example" class="carousel slide carousel-multi-item" data-ride="carousel">
+
+        <!--Controls-->
+        <div class="controls-top">
+            <a class="btn-floating" href="#multi-item-example" data-slide="prev">
+                <i class="fas fa-chevron-left"></i>
+            </a>
+            <a class="btn-floating" href="#multi-item-example" data-slide="next">
+                <i
+                    class="fas fa-chevron-right">
+                </i>
+            </a>
+        </div>
+        <!--/.Controls-->
+
+        <!--Indicators-->
+        <ol class="carousel-indicators">
+            <li data-target="#multi-item-example" data-slide-to="0" class="active"></li>
+            <li data-target="#multi-item-example" data-slide-to="1"></li>
+
+        </ol>
+        <!--/.Indicators-->
+
+        <!--Slides-->
+        <div class="carousel-inner" role="listbox">
+
+            <!--First slide-->
+            <div class="carousel-item active">
+                @foreach (var item in @ViewBag.publicaciones)
+                {
+                    <div class="col-md-3" style="float:left">
+                        <div class="card mb-2">
+                           <img height="150" src="~/images/@ViewBag.mascota[item.IdMascota].Imagen" alt="Card image cap"/>
+                            <div class="card-body">
+                                <h6 class="card-title"><b>Nombre: </b>@item.Nombre</h6>
+                                <h6 class="card-title"><b>Raza: </b>@ViewBag.raza[@item.IdRaza].Nombre</h6>
+                                <h6 class="card-title"><b>Especie: </b>@ViewBag.especie[@item.IdEspecie].Nombre</h6>
+                                <p class="card-text">
+                                    @item.Descripcion
+                                </p>
+                                <h8 class="card-title"><b>fecha publicacion: </b>@item.FechaPublicacion</h8>
+                                <h6 class="card-title"><b>Usuario dueño: </b>@ViewBag.usuario[@item.IdUsuario].Nombres</h6>
+                                <a class="btn btn-primary" href="/Home/Test?IdMascota=@item.IdMascota">adoptar</a>
+                                <a class="btn-secundary" href="/Home/Comentarios?IdPublicacion=@item.Id">comentarios</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+
+            </div>
+
+            <!--/.First slide-->
+
+        </div>
+        <!--/.Slides-->
+
+    </div>
+</div>

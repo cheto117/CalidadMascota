@@ -1,0 +1,69 @@
+﻿
+<h1>Mis mascotas</h1>
+<h3><a href="/Home/RegistarMascota" class="btn btn-primary">Registrar mascota</a></h3>
+<div class="container my-4">
+    <!--Carousel Wrapper-->
+    <div id="multi-item-example" class="carousel slide carousel-multi-item" data-ride="carousel">
+
+        <!--Controls-->
+        <div class="controls-top">
+            <a class="btn-floating" href="#multi-item-example" data-slide="prev">
+                <i class="fas fa-chevron-left"></i>
+            </a>
+            <a class="btn-floating" href="#multi-item-example" data-slide="next">
+                <i
+                    class="fas fa-chevron-right">
+                </i>
+            </a>
+        </div>
+        <!--/.Controls-->
+
+        <!--Indicators-->
+        <ol class="carousel-indicators">
+            <li data-target="#multi-item-example" data-slide-to="0" class="active"></li>
+            <li data-target="#multi-item-example" data-slide-to="1"></li>
+
+        </ol>
+        <!--/.Indicators-->
+
+        <!--Slides-->
+        <div class="carousel-inner" role="listbox">
+
+            <!--First slide-->
+            <div class="carousel-item active">
+                @foreach (var item in @ViewBag.mismascotas)
+                {
+                    <div class="col-md-3" style="float:left">
+                        <div class="card mb-2">
+                            <img height="150"
+                                 src="~/images/@item.Imagen" alt="Card image cap">
+                            <div class="card-body">
+                                <h4 class="card-title"><b>Nombre: </b>@item.Nombre</h4>
+                                <h4 class="card-title"><b>Raza: </b>@ViewBag.raza[@item.IdRaza].Nombre</h4>
+                                <h4 class="card-title"><b>Especie: </b>@ViewBag.especie[@item.IdEspecie].Nombre</h4>
+          
+                                <h5 class="card-title">@if (@item.EstadoAdoptivo == true)
+                                                       {
+                                                           <b>No esta en adopcion</b>
+                                                           <h3><a href="/Home/PonerEnAdopccion?IdMascota=@item.Id" class="btn btn-primary">Poner en adopcion</a></h3>
+                                                       }
+                                                       else
+                                                       {
+                                                           <b>esta en adopcion</b>
+                                                           <h3><a href="/Home/SacarDeAdopcion?IdMascota=@item.Id" class="btn btn-secondary">Sacar de adopcion</a></h3>
+                                                       }</h5>
+                                
+                            </div>
+                        </div>
+                    </div>
+                }
+
+            </div>
+
+            <!--/.First slide-->
+
+        </div>
+        <!--/.Slides-->
+
+    </div>
+</div>
